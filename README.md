@@ -5,6 +5,8 @@ This repository demonstrate one of the way to purchase coin automatically on lis
 **Import libraries**     
 Web3:   
 `pip install web3`  
+Requests:   
+`pip install requests`   
 Configparser:    
 `pip install configparser`   
 BeautifulSoup:   
